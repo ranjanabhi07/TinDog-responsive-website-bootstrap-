@@ -1,3 +1,4 @@
 # TinDog-website
 
-Link :- https://ranjanabhi07.github.io/TinDog-responsive-website-bootstrap-/
+Link for the website :- https://ranjanabhi07.github.io/TinDog-responsive-website-bootstrap-/
+
